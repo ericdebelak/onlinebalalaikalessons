@@ -10437,6 +10437,15 @@ header.masthead .masthead-heading {
   height: 20rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
+#testimonials .team-member img {
+  width: 14rem;
+  height: 14rem;
+}
+@media (min-width: 768px) {
+  #testimonials .team-member {
+    margin-bottom: 0;
+  }
+}
 .team-member h4 {
   margin-top: 1.5rem;
   margin-bottom: 0;
