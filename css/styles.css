@@ -10432,7 +10432,7 @@ header.masthead .masthead-heading {
   margin-bottom: 3rem;
   text-align: center;
 }
-.team-member img, .team-member .fa-stack  {
+.team-member img {
   width: 20rem;
   height: 20rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
